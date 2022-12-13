@@ -11,4 +11,4 @@ COPY . /app
 # start in python
 ENTRYPOINT [ "python" ]
 # run the app
-CMD [ "view.py" ]
+CMD [ "app.py" ]
